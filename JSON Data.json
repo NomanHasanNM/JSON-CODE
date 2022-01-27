@@ -1,0 +1,45 @@
+{
+"students":[
+
+{
+    "name" : "Noman Hasan",
+    "middlename" : null,
+    "age" : 22,
+    "cgpa" : 3.10,
+    "isRegistered" : true,
+    "languages" : ["Bengali", "English", "Arabic"],
+    "friends" :[
+        {
+            "name" : "abul",
+             "age" : 33
+        },
+        {
+            "name" : "Moni",
+            "age" : 28
+        }
+    ] 
+},
+
+{
+"name" : " Hasan",
+    "middlename" : null,
+    "age" : 26,
+    "cgpa" : 3.16,
+    "isRegistered" : false,
+    "languages" : ["Bengali", "English", "Arabic"],
+    "friends" :[
+        {
+            "name" : "aul",
+             "age" : 37
+        },
+        {
+            "name" : "Mou",
+            "age" : 29
+        }
+    ]   
+
+}
+]
+}
+
+
